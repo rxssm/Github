@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f047d99b-af5d-4459-909c-2c9ea8fb6c80" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/index.twig" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/index.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="25" />
-          <entry key="twig" value="258" />
+          <entry key="twig" value="268" />
           <entry key="txt" value="52" />
         </counts>
       </usages-collector>
@@ -48,7 +49,7 @@
         <counts>
           <entry key="HTML" value="25" />
           <entry key="PLAIN_TEXT" value="52" />
-          <entry key="Twig" value="258" />
+          <entry key="Twig" value="268" />
         </counts>
       </usages-collector>
     </session>
@@ -63,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/views/index.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="331">
+              <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -72,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="361">
+              <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -121,7 +122,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="216" />
+    <option name="x" value="542" />
     <option name="y" value="27" />
     <option name="width" value="1687" />
     <option name="height" value="903" />
@@ -194,7 +195,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536414431321</updated>
-      <workItem from="1536414435757" duration="7927000" />
+      <workItem from="1536414435757" duration="9311000" />
     </task>
     <task id="LOCAL-00001" summary="Excited I can do this!">
       <created>1536417215075</created>
@@ -231,14 +232,29 @@
       <option name="project" value="LOCAL" />
       <updated>1536421678963</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added paragraphs">
+      <created>1536422387718</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536422387718</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added paragraphs">
+      <created>1536422790541</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536422790541</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7927000" />
+    <option name="totallyTimeSpent" value="9311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="216" y="27" width="1687" height="903" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13711151" />
@@ -301,15 +317,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state relative-caret-position="361">
+          <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/views/index.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="331">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
         </state>
       </provider>
     </entry>
